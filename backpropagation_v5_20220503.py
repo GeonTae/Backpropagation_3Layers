@@ -1,5 +1,5 @@
 """
-x1,x2 0~100 아무숫자
+x1,x2 0~100 any numbers
 back -> forward
 """
 
